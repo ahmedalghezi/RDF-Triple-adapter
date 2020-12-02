@@ -29,3 +29,8 @@ structure. The objective is to have better query execution time.
 Besides the storage adaption, the system adapts its processing resources with the
 queries’ arrival rate. The aim of this adaption is to have better parallelization per
 query while still provides high system throughput.
+
+Ahmed Al-Ghezi
+Georg-August-Universität Göttingen
+Institute of Computer Science
+email: aalghez@gwdg.de
