@@ -19,7 +19,7 @@ The third storage-consuming structure is the join cache. It is a special index w
 the frequent join results are cached and save a considerable amount of running time
 on the cost of high storage space consumption. Again, the same two questions of
 replication and indexes are applicable to the join-cache.
-In this thesis, we present a universal adaption approach to the storage of a distributed
+In this project, we present a universal adaption approach to the storage of a distributed
 RDF store. The system aims to find optimal data assignments to the different
 indexes, replications, and join cache within the limited storage space. To achieve
 this, we present a cost model based on the workload that often contains frequent
