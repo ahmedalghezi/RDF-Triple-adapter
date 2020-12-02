@@ -1,4 +1,4 @@
-# RDF-Triple-adapter
+#  Universal Adaption in RDF Triple-Store
 The publication of machine-readable information has been significantly increasing
 both in the magnitude and complexity of the embedded relations. The Resource
 Description Framework(RDF) plays a big role in modeling and linking web data and
